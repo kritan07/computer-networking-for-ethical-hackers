@@ -52,9 +52,9 @@ Examples include:
 
 One device communicates directly with the other through a dedicated link.
 
-### 📷 Diagram
 
-![Point-to-Point Topology](../images/point-point-topology.png)
+
+![Point-to-Point Topology](../images/point-to-point-topology.png)
 
 ### 🔑 Key Features
 
@@ -88,9 +88,9 @@ In a **Full Mesh**, every device has a dedicated connection to every other devic
 
 A **Partial Mesh** connects only some devices directly, reducing cost while still providing redundancy.
 
-### 📷 Diagram
 
-![Mesh Topology](images/mesh-topology.jpg)
+
+![Mesh Topology](../images/mesh-topology.jpg)
 
 ## 🔢 Full Mesh Formula
 
@@ -135,9 +135,9 @@ In a **Star topology**, all devices are connected to a **central networking devi
 
 The central device manages communication between connected devices.
 
-### 📷 Diagram
 
-![Star Topology](images/star-topology.jpg)
+
+![Star Topology](../images/star-topology.jpg)
 
 ## 🔢 Formula
 
@@ -180,7 +180,7 @@ Devices communicate over the same shared medium.
 
 ### 📷 Diagram
 
-![Bus Topology](images/bus-topology.jpg)
+![Bus Topology](../images/bus-topology.jpg)
 
 ## 🔢 Structure
 
@@ -225,7 +225,7 @@ Data travels around the ring according to the network's communication method.
 
 ### 📷 Diagram
 
-![Ring Topology](images/ring-topology.png)
+![Ring Topology](../images/ring-topology.png)
 
 ## ⚙️ How It Works
 
@@ -270,9 +270,9 @@ A **Dual Ring** uses two separate rings to provide two paths.
 
 Devices are organized into multiple levels, creating a structure similar to a tree.
 
-### 📷 Diagram
 
-![Tree Topology](images/tree-topology.jpg)
+
+![Tree Topology](../images/tree-topology.jpg)
 
 ## 🌳 Structure
 
@@ -325,7 +325,7 @@ For example, a network might combine:
 
 ### 📷 Diagram
 
-![Hybrid Topology](images/hybrid-topology.jpg)
+![Hybrid Topology](../images/hybrid-topology.jpg)
 
 ### 🔑 Key Features
 
