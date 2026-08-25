@@ -137,7 +137,7 @@ The central device manages communication between connected devices.
 
 
 
-![Star Topology](../images/star-topology.jpg)
+![Star Topology](../images/star-topology.png)
 
 ## 🔢 Formula
 
