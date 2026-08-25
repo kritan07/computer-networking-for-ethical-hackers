@@ -178,7 +178,7 @@ In a **Bus topology**, all devices share a **single main communication cable**, 
 
 Devices communicate over the same shared medium.
 
-### 📷 Diagram
+
 
 ![Bus Topology](../images/bus-topology.jpg)
 
@@ -223,7 +223,7 @@ In a **Ring topology**, each device is connected to **two neighboring devices**,
 
 Data travels around the ring according to the network's communication method.
 
-### 📷 Diagram
+
 
 ![Ring Topology](../images/ring-topology.png)
 
@@ -323,7 +323,7 @@ For example, a network might combine:
 - Star + Ring
 - Star + Mesh
 
-### 📷 Diagram
+
 
 ![Hybrid Topology](../images/hybrid-topology.jpg)
 
