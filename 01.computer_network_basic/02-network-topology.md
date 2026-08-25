@@ -54,7 +54,7 @@ One device communicates directly with the other through a dedicated link.
 
 ### 📷 Diagram
 
-![Point-to-Point Topology](images/point-point-topology.jpg)
+![Point-to-Point Topology](../images/point-point-topology.png)
 
 ### 🔑 Key Features
 
