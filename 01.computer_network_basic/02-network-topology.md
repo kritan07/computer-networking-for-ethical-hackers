@@ -225,7 +225,7 @@ Data travels around the ring according to the network's communication method.
 
 ### 📷 Diagram
 
-![Ring Topology](images/ring-topology.jpg)
+![Ring Topology](images/ring-topology.png)
 
 ## ⚙️ How It Works
 
